@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sreeraj Unnikrishnan
 
-## 💻 Penetration Tester | Cybersecurity Enthusiast
+## 💻 Penetration Tester | Cybersecurity Researcher
 
 I am a passionate **Penetration Tester and Cybersecurity learner** focused on ethical hacking, web application security, and network security.  
 I enjoy finding vulnerabilities, learning hacking tools, and improving my cybersecurity skills every day.
